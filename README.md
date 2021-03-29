@@ -2,7 +2,9 @@
 
 ## excel-vba-ngram
 Excel VBA user defined functions for N-GRAM similarity text analysis. There are two types of functions base on two types of  similaryty metrics: fast and good. 
-Download and open N-GRAMS.xlsm for discription and examples.
+**Download and open N-GRAMS.xlsm** for discription and examples.
+
+N-GRAMS.xlam - is identical to N-GRAMS.xlsm but ready for plug in as add-in.
 
 ## Good
 But slow. Builds vector space for each comparison. Builds vectros is this space for two compared string. Uses cosine similarity between vectors.
@@ -24,7 +26,9 @@ Functions:
 
 ## excel-vba-ngram
 Функции Excel VBA для анализа текста и его схожести с помощью NGRAM. Два вида фукнций: хорошие и быстрые. 
-Скачайте и откройте N-GRAMS.xlsm для детального описания и примеров.
+**Скачайте и откройте N-GRAMS.xlsm** для детального описания и примеров.
+
+N-GRAMS.xlam - тоже самое что и N-GRAMS.xlsm но сохранено как в формате надстройки Excel - готово для подключения как надстройка.
 
 ## Хорошие
 Но медленные. Строят векторное пространство NGRAM для каждого стравнения двух строк. Строят по вектору в этом пространстве для каждой сравниваемой строки. Использует cosine similarity как метрику близостри векторов/строк.
